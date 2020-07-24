@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../DG_Resolver/DG_Resolver.srcs/sources_1/new/Resolver.vhd" \
+"../../../../../DG_Reversible_AND_Gate/DG_Reversible_AND_Gate.srcs/sources_1/new/Reversible_AND_Gate.vhd" \
+"../../../../../DG_Reversible_XOR/DG_Reversible_XOR.srcs/sources_1/new/Reversible_XOR_Gate.vhd" \
+"../../../../DG_Reversible_half_adder.srcs/sources_1/new/Reversible_half_adder.vhd" \
+"../../../../DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd" \
+
+# Do not sort compile order
+nosort

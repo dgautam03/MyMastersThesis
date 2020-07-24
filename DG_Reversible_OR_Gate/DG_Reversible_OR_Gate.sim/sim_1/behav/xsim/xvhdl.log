@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/samyt/DG_Reversible_OR_Gate/DG_Reversible_OR_Gate.srcs/sources_1/new/Reversible_OR.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Reversible_OR'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/samyt/DG_Reversible_OR_Gate/DG_Reversible_OR_Gate.srcs/sim_1/new/Reversible_OR_gate_Tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Reversible_OR_gate_Tb'

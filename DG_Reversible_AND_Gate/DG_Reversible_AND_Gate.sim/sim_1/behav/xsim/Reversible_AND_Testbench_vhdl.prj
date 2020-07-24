@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../DG_Reversible_AND_Gate.srcs/sources_1/new/Reversible_AND_Gate.vhd" \
+"../../../../DG_Reversible_AND_Gate.srcs/sim_1/new/Reversible_AND_Testbench.vhd" \
+
+# Do not sort compile order
+nosort

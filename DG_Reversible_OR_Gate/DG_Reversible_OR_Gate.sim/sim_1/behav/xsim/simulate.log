@@ -1,0 +1,6 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+Error: Assertion violation
+Time: 1900 ns  Iteration: 0  Process: /Reversible_OR_gate_Tb/stimulus  File: C:/Users/samyt/DG_Reversible_OR_Gate/DG_Reversible_OR_Gate.srcs/sim_1/new/Reversible_OR_gate_Tb.vhd
+Error: Assertion violation
+Time: 1900 ns  Iteration: 0  Process: /Reversible_OR_gate_Tb/stimulus  File: C:/Users/samyt/DG_Reversible_OR_Gate/DG_Reversible_OR_Gate.srcs/sim_1/new/Reversible_OR_gate_Tb.vhd

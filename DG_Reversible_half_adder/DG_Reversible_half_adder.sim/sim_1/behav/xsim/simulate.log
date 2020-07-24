@@ -1,0 +1,348 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+Error: Assertion violation
+Time: 300 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 500 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 500 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 500 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 500 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 700 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 900 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 900 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 900 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 900 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 1100 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 1100 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 1100 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 1100 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 1300 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 1300 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 1500 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 1500 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 1900 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 1900 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 2100 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 2100 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 2500 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 2500 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 2500 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 2500 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 2700 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 2700 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 2700 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 2700 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 3100 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 3100 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 3100 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 3100 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 3300 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 3300 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 3300 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 3300 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 3700 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 3900 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 3900 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 3900 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 3900 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 4100 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 4100 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 4100 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 4100 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 4300 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 4300 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 4300 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 4300 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 4700 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 4700 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 4700 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 4700 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 4900 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 4900 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 4900 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 4900 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 5100 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 5100 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 5100 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 5100 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 5500 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 5500 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 5700 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 5700 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 6100 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 6100 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 6100 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 6100 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 6300 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 6300 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 6300 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 6300 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 6700 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 6700 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 6700 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 6700 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 6900 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 6900 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 6900 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 6900 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 7300 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 7300 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 7300 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 7300 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 7500 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 7500 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 7500 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 7500 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 7600 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 7600 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 7600 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 7600 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 7700 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 7700 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 7700 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 7700 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 7800 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 7800 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 7800 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 7800 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 8 us  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 8 us  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 8 us  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 8 us  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 8700 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 8700 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 8700 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 8700 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 8800 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 8800 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 8800 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 8800 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 9200 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 9200 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 9200 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 9200 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 9400 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 9400 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 9400 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 9400 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 9800 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 9800 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 9800 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 9800 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 10 us  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 10 us  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 10 us  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 10 us  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 10400 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 10400 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 10400 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 10400 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 10600 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 10600 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 10800 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 10800 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 10800 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 10800 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 11 us  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 11 us  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 11 us  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 11200 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 11200 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 11200 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 11200 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 11600 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 11600 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 11600 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 11800 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 11800 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 11800 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 11800 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 12 us  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 12 us  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 12 us  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 12 us  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 12800 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 12800 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 12800 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 12800 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 13 us  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 13 us  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 13 us  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 13 us  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 13400 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 13400 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 13400 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 13400 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Time: 13600 ns  Iteration: 0  Process: /reversible_halfaddertb/stimulus  File: C:/Users/samyt/DG_Reversible_half_adder/DG_Reversible_half_adder.srcs/sim_1/new/Reversible_half_adder_tb.vhd
+Error: Assertion violation
+Tim
